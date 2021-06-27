@@ -12,3 +12,5 @@ pipeline {
         sh '/opt/maven38/bin/mvn clean package '
       }
     }
+    }
+    }
